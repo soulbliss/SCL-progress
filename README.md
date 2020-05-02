@@ -1,6 +1,6 @@
-# SCL-progress website
+# SCL-progress website 
 Site to organize the progress in the field of Sanskrit Computational Linguistics
-
+![Publish Site](https://github.com/soulbliss/SCL-progress/workflows/Publish%20Site/badge.svg)
 
 ## Run the server locally
 
