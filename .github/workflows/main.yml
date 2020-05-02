@@ -1,4 +1,4 @@
-name: Publish Site
+name: Publish SCL Site
 
 on:
   push:
