@@ -1,1 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags on Sanskrit Computational Linguistics Progress | SCL Progress</title><link>https://sclprogress.com/tags/</link><description>Recent content in Tags on Sanskrit Computational Linguistics Progress | SCL Progress</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 24 Jun 2015 13:50:46 +0200</lastBuildDate><atom:link href="https://sclprogress.com/tags/index.xml" rel="self" type="application/rss+xml"/><item><title>theme</title><link>https://sclprogress.com/tags/theme/</link><pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate><guid>https://sclprogress.com/tags/theme/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Sanskrit Computational Linguistics Progress | SCL Progress</title>
+    <link>https://sclprogress.com/tags/</link>
+    <description>Recent content in Tags on Sanskrit Computational Linguistics Progress | SCL Progress</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 24 Jun 2015 13:50:46 +0200</lastBuildDate>
+    
+	<atom:link href="https://sclprogress.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>theme</title>
+      <link>https://sclprogress.com/tags/theme/</link>
+      <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
+      
+      <guid>https://sclprogress.com/tags/theme/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
