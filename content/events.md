@@ -2,7 +2,7 @@
 title = "Events"
 +++
 
-# Upcoming Events
+# Upcoming Eventss
 
 | Event Name                     | Year      | Website                                                      |
 | ------------------------------ | --------- | ------------------------------------------------------------ |
