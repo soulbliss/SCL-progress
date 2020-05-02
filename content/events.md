@@ -29,3 +29,13 @@ title = "Events"
 
 ---
 
+
+---
+<div style="font-size:18px" class="alert alert-block alert-info">
+<b>Disclaimer:</b>
+    <br>
+    This page is in no manner a complete and an exhaustive resource. <br>Inputs from everyone to make the page resourceful are highly appreciated.
+
+</div>
+---
+
