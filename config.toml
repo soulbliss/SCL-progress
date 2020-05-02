@@ -13,8 +13,11 @@ googleAnalytics = "UA-146788124-5"
 # Define the number of posts per page
 paginate = 10
 
-[markup.goldmark.renderer]
-unsafe= true
+[markup]
+  defaultMarkdownHandler = "goldmark"
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
 [menu]
 
