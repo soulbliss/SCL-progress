@@ -19,3 +19,4 @@ jobs:
         with:
           githubToken: ${{ secrets.PERSONAL_TOKEN }}
           cname:  sclprogress.com
+          args: --cleanDestinationDir  
