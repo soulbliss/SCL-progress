@@ -55,11 +55,11 @@ paginate = 10
     weight = 5
 
 
-[[menu.main]]
-    identifier="blog"
-    name = "Blog"
-    url  = "/blog/"
-    weight = 6
+#[[menu.main]]
+#    identifier="blog"
+#    name = "Blog"
+#    url  = "/blog/"
+#   weight = 6
 
 #[[menu.main]]
 #    identifier = "faq"
@@ -68,11 +68,11 @@ paginate = 10
 #    weight = 7
 
 
-[[menu.main]]
-    identifier = "contact"
-    name = "Feedback"
-    url  = "/contact/"
-    weight = 8
+#[[menu.main]]
+#    identifier = "contact"
+#    name = "Feedback"
+#    url  = "/contact/"
+#    weight = 8
 
 # Top bar social links menu
 
@@ -207,6 +207,6 @@ paginate = 10
     subtitle = ""
 
 [params.recent_posts]
-    enable = true
+    enable = false
     title = "From our blog"
     subtitle = "You can send your blog articles on upcoming SCL Events, updates on Sanskrit tools, Workshops, so we all are updated."
