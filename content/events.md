@@ -6,7 +6,7 @@ title = "Events"
 
 | Event Name                     | Year      | Website                                                      |
 | ------------------------------ | --------- | ------------------------------------------------------------ |
-| 18th World Sanskrit Conference | Jan, 2021 | [Link](http://www.wsc2021.com.au/computational-and-digital-humanities/) |
+| 18th World Sanskrit Conference | Jan 18 - 21, 2022 | [Link](http://www.wsc2021.com.au/computational-and-digital-humanities/) |
 
 <br>
 
