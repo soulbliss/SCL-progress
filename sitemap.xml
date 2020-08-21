@@ -38,11 +38,6 @@
   </url>
   
   <url>
-    <loc>https://sclprogress.com/researchers/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://sclprogress.com/contact/</loc>
   </url>
   
@@ -56,6 +51,10 @@
   
   <url>
     <loc>https://sclprogress.com/datasets/</loc>
+  </url>
+  
+  <url>
+    <loc>https://sclprogress.com/researchers/</loc>
   </url>
   
   <url>
