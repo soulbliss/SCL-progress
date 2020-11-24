@@ -1,4 +1,4 @@
-baseurl = "https://sclprogress.com/"
+baseurl = "https://soulbliss.github.io/SCL-progress/"
 title = "Sanskrit Computational Linguistics Progress | SCL Progress"
 theme = "hugo-universal-theme"
 themesDir = "themes/"
